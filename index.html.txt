@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ganar dinero con IA</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f5f5; }
+    header { background: #222; color: #fff; padding: 20px; text-align: center; }
+    .container { max-width: 900px; margin: auto; padding: 20px; }
+    .post { background: #fff; padding: 20px; margin-bottom: 20px; border-radius: 10px; }
+    h1, h2 { margin-top: 0; }
+    .btn { display: inline-block; padding: 10px 15px; background: #007bff; color: #fff; text-decoration: none; border-radius: 5px; }
+    footer { text-align: center; padding: 20px; font-size: 14px; color: #666; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>💰 Ganar dinero con IA</h1>
+  <p>Aprende a generar ingresos usando inteligencia artificial</p>
+</header>
+
+<div class="container">
+
+  <div class="post">
+    <h2>10 formas de ganar dinero con IA en 2026</h2>
+    <p>La inteligencia artificial está creando nuevas oportunidades para generar ingresos desde casa. Aquí tienes algunas ideas:</p>
+    <ul>
+      <li>Crear contenido con IA</li>
+      <li>Diseñar imágenes</li>
+      <li>Automatizar negocios</li>
+      <li>Vender prompts</li>
+    </ul>
+    <a href="#" class="btn">Leer más</a>
+  </div>
+
+  <div class="post">
+    <h2>Mejores herramientas de IA gratis</h2>
+    <p>Descubre herramientas que puedes usar sin pagar para empezar hoy mismo.</p>
+    <a href="#" class="btn">Ver herramientas</a>
+  </div>
+
+</div>
+
+<footer>
+  <p>© 2026 Ganar dinero con IA</p>
+</footer>
+
+</body>
+</html>
